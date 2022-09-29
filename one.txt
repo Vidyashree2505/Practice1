@@ -3,3 +3,5 @@ E
 njd
 56212
 njdcn
+demo
+session
